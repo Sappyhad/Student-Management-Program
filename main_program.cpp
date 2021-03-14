@@ -63,6 +63,7 @@ menustart:
         calculator();
         break;
     case 7:
+        cout << "\n\t\t\tThank You For Using This Program.";
         exit(0);
     default:
         cout << "\n\t\t\t Invalid Choice. Please Try Again.";
